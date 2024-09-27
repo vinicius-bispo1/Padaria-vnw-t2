@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: sienna;
+  height: 200px;
+  text-align: center;
+}
+header img {
+  width: 100px;
+}
+header h1 {
+  color: aliceblue;
+}
+
+article {
+  border: solid 2px red;
+  width: 300px;
+  height: 300px;
+  margin-left: 50px;
+  margin-top: 10px;
+  background-color: sandybrown;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+article img {
+  width: 250px;
+}
+article figcaption {
+  color: white;
+}
+article button {
+  background-color: sienna;
+  color: aliceblue;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 50px;
+}/*# sourceMappingURL=style.css.map */
